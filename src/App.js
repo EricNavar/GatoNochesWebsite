@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './Phoenix.jpg';
 import './App.css';
 
 function App() {
@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Gato Noches resumes it's normal schedule of Friday Night epicness this friday at 8 or 9 or whatever.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/EricNavar"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Cool Kids Club
         </a>
       </header>
     </div>
